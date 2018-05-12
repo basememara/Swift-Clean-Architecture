@@ -1,2 +1,2 @@
-# So Swift, So Clean Architecture for iOS
-See blog post: http://basememara.com/swift-clean-architecture/
+# Clean Architecture for iOS
+See blog post: https://iosmentor.io/clean-architecture-for-ios/
